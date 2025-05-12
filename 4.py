@@ -1,4 +1,4 @@
-ChatGPT4 | Midjourney, [4 мая 2025 г., 22:01:28]:
+
 class MusicalInstrument:
     """
     Класс, представляющий музыкальный инструмент.
